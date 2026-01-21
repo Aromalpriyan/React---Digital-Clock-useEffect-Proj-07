@@ -1,6 +1,6 @@
 # ⏰ Digital Clock – React useEffect Project
 
-## 🚀 [Live Demo]()
+## 🚀 [Live Demo](https://react-digital-clock-use-effect-proj.vercel.app/)
 
 ## 📋 Overview
 <p>A responsive digital clock built with React that displays the current date and time in real-time using the useEffect hook. Styled with a modern UI and gradient text for a clean visual experience.</p>
@@ -8,10 +8,10 @@
 ## 📸 Preview
 
 ### Mobile View
-![image]()
+![image](./digitalPreviewM.png)
 
 ### Desktop View
-![image]()
+![image](./digitalPreviewD.png)
 
 ## ✨ Features
 
@@ -49,7 +49,7 @@ src/
 
 #### 1️⃣ Clone the repository
 ```
-git clone https://github.com/your-username/react-digital-clock.git
+git clone https://github.com/Aromalpriyan/React---Digital-Clock-useEffect-Proj-07
 ```
 
 #### 2️⃣ Navigate to the project folder
@@ -88,4 +88,4 @@ http://localhost:5173/
 
 #### Aromal Priyan
 
-#### GitHub: 
+#### GitHub: https://github.com/Aromalpriyan/React---Digital-Clock-useEffect-Proj-07
